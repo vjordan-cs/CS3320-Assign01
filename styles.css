@@ -1,0 +1,39 @@
+body {
+  background-image: url("media/clouds.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* background-size: cover; */
+}
+
+a,
+h2,
+span {
+  font-family: "Playfair Display", Serif;
+  font-weight: bold;
+  font-style: italic;
+}
+h1 {
+  font-family: "Playfair Display", Serif;
+  font-size: 48px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h3,
+p {
+  color: #29141b;
+  font-family: "Source Sans Pro", Sans-Serif;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
